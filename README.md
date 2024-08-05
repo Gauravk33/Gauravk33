@@ -43,14 +43,14 @@
 <!-- GitHub Stats -->
 <h2>GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="gauravk33" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="gauravk33" />
 </p>
 
 <!-- Contribution Graph -->
 <h2>Contribution Graph</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=redical" alt="your-username" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=redical" alt="gauravk33" />
 </p>
 
 <!-- Animated Footer -->
