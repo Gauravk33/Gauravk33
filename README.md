@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
   <h1>Hi there, I'm <a href="https://yourwebsite.com">Gaurav</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <h3>A passionate FrontEnd Developer from India</h3>
+  <h3>A passionate FrontEnd Developer </h3>
 </div>
 
 <!-- Visitor Badge -->
